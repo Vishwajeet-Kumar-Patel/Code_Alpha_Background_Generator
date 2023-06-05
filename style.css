@@ -1,0 +1,54 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top: 15%;
+	background: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	font-size: 3.5em;
+	color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	width: 100%;
+}
+
+h2{
+  font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	font-size: 50px;
+	color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	text-transform: none;
+	letter-spacing: 15px;
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	font-size: 30px;
+	color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	text-transform: none;
+	letter-spacing: 7px;
+}
+
+input[type="color"]
+{
+  width: 150px;
+  height: 40px;
+}
+
+button{
+  background-color: beige;
+  height: 50px;
+  width: 200px;
+  padding: 3px 7px;
+  font-size: large;
+}
